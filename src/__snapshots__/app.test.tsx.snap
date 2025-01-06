@@ -1,0 +1,77 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`App should render 1`] = `
+<DocumentFragment>
+  <div>
+    <a
+      href="https://vite.dev"
+      target="_blank"
+    >
+      <img
+        alt="Vite logo"
+        class="logo"
+        src="/vite.svg"
+      />
+    </a>
+    <a
+      href="https://preactjs.com"
+      target="_blank"
+    >
+      <img
+        alt="Preact logo"
+        class="logo preact"
+        src="/src/assets/preact.svg"
+      />
+    </a>
+  </div>
+  <h1>
+    Vite + Preact
+  </h1>
+  <p>
+    Hello there!
+  </p>
+  <p
+    class="read-the-docs"
+  >
+    Click on the Vite and Preact logos to learn more
+  </p>
+</DocumentFragment>
+`;
+
+exports[`App should render 2`] = `
+<DocumentFragment>
+  <div>
+    <a
+      href="https://vite.dev"
+      target="_blank"
+    >
+      <img
+        alt="Vite logo"
+        class="logo"
+        src="/vite.svg"
+      />
+    </a>
+    <a
+      href="https://preactjs.com"
+      target="_blank"
+    >
+      <img
+        alt="Preact logo"
+        class="logo preact"
+        src="/src/assets/preact.svg"
+      />
+    </a>
+  </div>
+  <h1>
+    Vite + Preact
+  </h1>
+  <p>
+    Hello there!
+  </p>
+  <p
+    class="read-the-docs"
+  >
+    Click on the Vite and Preact logos to learn more
+  </p>
+</DocumentFragment>
+`;
